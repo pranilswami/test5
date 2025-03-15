@@ -13,6 +13,7 @@ public class Test5Application {
 	char ch='x';
 	boolean isSub=true;
 	char ch1='n';
+	String m1 = "Changes in master";
 	public static void main(String[] args) {
 		SpringApplication.run(Test5Application.class, args);
 	}
