@@ -12,6 +12,7 @@ public class Test5Application {
 	double value1=123.12331231;
 	char ch='x';
 	boolean isSub=true;
+	char ch1='n';
 	public static void main(String[] args) {
 		SpringApplication.run(Test5Application.class, args);
 	}
