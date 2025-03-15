@@ -10,6 +10,7 @@ public class Test5Application {
 	boolean status=true;
 	float value=12.312
 	double value1=123.12331231
+	boolean isSub=true;
 	public static void main(String[] args) {
 		SpringApplication.run(Test5Application.class, args);
 	}
