@@ -14,6 +14,7 @@ public class Test5Application {
 	boolean isSub=true;
 	char ch1='n';
 	String b1 = "Changes in bug-fix";
+	String b2 = "chages in b2 bug fix";
 	public static void main(String[] args) {
 		SpringApplication.run(Test5Application.class, args);
 	}
