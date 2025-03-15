@@ -13,7 +13,14 @@ public class Test5Application {
 	char ch='x';
 	boolean isSub=true;
 	char ch1='n';
+
 	String m1 = "Changes in master";
+
+	String b1 = "Changes in bug-fix second time by different local repository";
+	String b1 = "Changes in bug-fix";
+	String b2 = "chages in b2 bug fix";
+	String m1 = "Changes in bug-fix";
+
 	public static void main(String[] args) {
 		SpringApplication.run(Test5Application.class, args);
 	}
